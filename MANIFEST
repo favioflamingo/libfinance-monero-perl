@@ -1,0 +1,10 @@
+Changes
+Makefile.PL
+MANIFEST
+Monero.xs
+ppport.h
+README
+t/Finance-Monero.t
+fallback/const-c.inc
+fallback/const-xs.inc
+lib/Finance/Monero.pm
